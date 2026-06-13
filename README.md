@@ -1,8 +1,8 @@
-Here is a professional, comprehensive `README.md` file tailored for this project. It highlights the technical skills demonstrated in the code, making it a strong addition to a GitHub portfolio aimed at the corporate tech sector.
+# Responsive Registration Form
 
-You can copy and paste the block below directly into your repository.
+**[View Live Demo](https://simiyuu.github.io/registration-form/)** ![Registration Form Preview](./regform.png)
 
-```markdown
+A clean, accessible, and fully responsive registration form built with HTML5 and CSS3. This project demonstrates modern frontend development practices, including semantic markup, client-side form validation, and responsive design techniques.
 # Responsive Registration Form
 
 A clean, accessible, and fully responsive registration form built with HTML5 and CSS3. This project demonstrates modern frontend development practices, including semantic markup, client-side form validation, and responsive design techniques.
@@ -58,10 +58,3 @@ cd registration-form
 
 *This project was built to practice foundational web development and user interface design.*
 
-```
-
-### Tips for your repository:
-* **Screenshot:** Take a screenshot of the finished form and add it to the README (e.g., `![Form Preview](screenshot.png)`) right below the main title. Visuals drastically improve portfolio repositories. 
-* **Live Demo:** If you activate GitHub Pages for this repository, add a link at the top of the README so recruiters can immediately test the live form.
-
-```
